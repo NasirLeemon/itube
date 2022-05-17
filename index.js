@@ -8,3 +8,7 @@ menuIcon.onclick = function() {
     sideBar.classList.toggle("small-sidebar");
     container.classList.toggle("large-container");
 }
+
+function feersw (){
+    console.log(dhdkd);
+}
